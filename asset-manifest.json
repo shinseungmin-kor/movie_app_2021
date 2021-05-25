@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shinseungmin-kor.github.io/movie_app_2021/static/css/main.bab0b925.chunk.css",
+    "main.js": "/shinseungmin-kor.github.io/movie_app_2021/static/js/main.d1f342fd.chunk.js",
+    "main.js.map": "/shinseungmin-kor.github.io/movie_app_2021/static/js/main.d1f342fd.chunk.js.map",
+    "runtime-main.js": "/shinseungmin-kor.github.io/movie_app_2021/static/js/runtime-main.a51dc045.js",
+    "runtime-main.js.map": "/shinseungmin-kor.github.io/movie_app_2021/static/js/runtime-main.a51dc045.js.map",
+    "static/js/2.6ce27cae.chunk.js": "/shinseungmin-kor.github.io/movie_app_2021/static/js/2.6ce27cae.chunk.js",
+    "static/js/2.6ce27cae.chunk.js.map": "/shinseungmin-kor.github.io/movie_app_2021/static/js/2.6ce27cae.chunk.js.map",
+    "index.html": "/shinseungmin-kor.github.io/movie_app_2021/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/shinseungmin-kor.github.io/movie_app_2021/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.6ce27cae.chunk.js.LICENSE.txt": "/shinseungmin-kor.github.io/movie_app_2021/static/js/2.6ce27cae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a51dc045.js",
+    "static/js/2.6ce27cae.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.d1f342fd.chunk.js"
+  ]
+}
